@@ -9,8 +9,9 @@ To write a Python program that defines a **lambda function** which takes two arg
 3. Call the function with the user inputs and print the result.
 
 ## 🧾 Program
-Add code here
+
 
 ## Output
 
 ## Result
+Thus the output is verified.
